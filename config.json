@@ -1,0 +1,1 @@
+[{"login": "admin", "role": "admin", "permissions": "111", "status": "active"}, {"login": "ksu", "role": "user", "permissions": "100", "status": "active"}, {"login": "god", "role": "admin", "permissions": "111", "status": "active"}]
